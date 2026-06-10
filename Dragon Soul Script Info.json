@@ -2,6 +2,6 @@
   "ScriptAvailable": false,
   "Version": "V5.1",
   "LastScriptUpdate": "Last Update: 18/05/2026",
-  "LatestScriptUpdateDate": "2026-06-08T21:42:37Z",
+  "LatestScriptUpdateDate": "2026-06-10T02:14:47Z",
   "ChangeLog": "\n<b>V5.1 Changelog</b>\n\n-> Added Friendly NPCs ESP in Visuals page.\n-> Added Mako repeteable quest to Auto Quest (East City).\n-> Faster traveling to quest NPCs in Auto Quest.\n-> Made combat safer.\n-> Updated all active Dragon Soul codes.\n-> Replaced Redeem All Codes button with a dropdown with each of the active codes so you can select which code you want to redeem so you don't lose stuff like dragon balls because of redeeming dragon ball codes when you already have 7.\n-> Fixed/Improved the NPCs teleport dropdown.\n-> Improved Visuals page ESP section layout."
 }
