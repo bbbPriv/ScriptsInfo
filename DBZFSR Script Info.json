@@ -9,6 +9,12 @@
       "Name": "PvP",
       "Version": 1,
       "Url": "https://raw.githubusercontent.com/bbbPriv/ScriptsInfo/refs/heads/main/PrebuiltConfigs/PvP.json"
+    },
+    
+    {
+      "Name": "Full Auto Raid & Dungeon",
+      "Version": 1,
+      "Url": "https://raw.githubusercontent.com/bbbPriv/ScriptsInfo/refs/heads/main/PrebuiltConfigs/Full%20Auto%20Raid%20%26%20Dungeon.json"
     }
   ]
 }
