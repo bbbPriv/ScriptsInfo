@@ -14,18 +14,21 @@
     {
       "Name": "Fast Auto Raid & Dungeon",
       "Version": 1,
+      "AutoRefill": true,
       "Url": "https://raw.githubusercontent.com/bbbPriv/ScriptsInfo/refs/heads/main/PrebuiltConfigs/Fast%20Auto%20Raid%20%26%20Dungeon.json"
     },
 
     {
       "Name": "Full Auto Raid & Dungeon",
       "Version": 1,
+      "AutoRefill": true,
       "Url": "https://raw.githubusercontent.com/bbbPriv/ScriptsInfo/refs/heads/main/PrebuiltConfigs/Full%20Auto%20Raid%20%26%20Dungeon.json"
     },
 
     {
       "Name": "Auto Quest & Auto Capsule Farm",
       "Version": 1,
+      "AutoRefill": true,
       "Url": "https://raw.githubusercontent.com/bbbPriv/ScriptsInfo/refs/heads/main/PrebuiltConfigs/Auto%20Quest%20%26%20Auto%20Capsule%20Farm.json"
     },
 
