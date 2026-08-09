@@ -27,7 +27,7 @@
 
     {
       "Name": "Auto Quest & Auto Capsule Farm",
-      "Version": 1,
+      "Version": 2,
       "AutoRefill": true,
       "Url": "https://raw.githubusercontent.com/bbbPriv/ScriptsInfo/refs/heads/main/PrebuiltConfigs/Auto%20Quest%20%26%20Auto%20Capsule%20Farm.json"
     },
