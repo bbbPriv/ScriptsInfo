@@ -7,7 +7,7 @@
   "PrebuiltConfigurations": [
     {
       "Name": "PvP",
-      "Version": 1,
+      "Version": 2,
       "Url": "https://raw.githubusercontent.com/bbbPriv/ScriptsInfo/refs/heads/main/PrebuiltConfigs/PvP.json"
     },
 
@@ -34,7 +34,7 @@
 
     {
       "Name": "Combat Blatant",
-      "Version": 1,
+      "Version": 2,
       "Url": "https://raw.githubusercontent.com/bbbPriv/ScriptsInfo/refs/heads/main/PrebuiltConfigs/Combat%20Blatant.json"
     }
   ]
