@@ -3,5 +3,5 @@
   "Version": "V1.2",
   "LastScriptUpdate": "Last Update: 03/09/2026",
   "LatestScriptUpdateDate": "2026-09-02T23:55:15Z",
-  "ChangeLog": "\n<b>V1.1 Changelog</b>\n\n-> Added Hide From Players with a Distance setting.\n-> Auto Raid now kills Cell Jrs before targeting Cell boss in Cell Games raid and Void Minions before targeting Void boss in Time Breach raid.\n-> Auto Raid no longer attacks enemies while they are invulnerable."
+  "ChangeLog": "\n<b>V1.2 Changelog</b>\n\n-> Added the FSR dropdown configuration loading fix so selected moves and transformations aren't sometimes deselected.\n-> Improved Auto Quest and fixed some issues.\n-> Improved enemy following and fixed missing a good amount of Combo Finishers.\n-> Autos now keep you safe while you are knocked down.\n-> Use Moves now checks if you have enough ki before using a move so no more notification spam.\n-> Fixed Auto Next World, it now completes requirements such as required raids before going to the next world. Auto Next World must be included in your autoload configuration so it continues across teleports. Be aware that your slot might not be strong enough to complete the required raid.\n-> Fixed disabling Wait For Auto Quest setting of Auto Next World not taking you to the next world if you were already the required level."
 }
