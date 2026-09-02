@@ -1,7 +1,7 @@
 {
   "ScriptAvailable": true,
-  "Version": "V1.1",
-  "LastScriptUpdate": "Last Update: 02/09/2026",
-  "LatestScriptUpdateDate": "2026-09-02T05:21:19Z",
+  "Version": "V1.2",
+  "LastScriptUpdate": "Last Update: 03/09/2026",
+  "LatestScriptUpdateDate": "2026-09-02T23:55:15Z",
   "ChangeLog": "\n<b>V1.1 Changelog</b>\n\n-> Added Hide From Players with a Distance setting.\n-> Auto Raid now kills Cell Jrs before targeting Cell boss in Cell Games raid and Void Minions before targeting Void boss in Time Breach raid.\n-> Auto Raid no longer attacks enemies while they are invulnerable."
 }
