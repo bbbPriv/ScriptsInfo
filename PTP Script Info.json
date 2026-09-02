@@ -1,7 +1,7 @@
 {
   "ScriptAvailable": true,
-  "Version": "V1",
-  "LastScriptUpdate": "Last Update: 31/08/2026",
-  "LatestScriptUpdateDate": "2026-08-31T02:41:33Z",
-  "ChangeLog": "Initial BOOGA HUB Path To Power Premium release."
+  "Version": "V1.1",
+  "LastScriptUpdate": "Last Update: 02/09/2026",
+  "LatestScriptUpdateDate": "2026-09-02T05:21:19Z",
+  "ChangeLog": "\n<b>V1.1 Changelog</b>\n\n-> Added Hide From Players with a Distance setting.\n-> Auto Raid now kills Cell Jrs before targeting Cell boss in Cell Games raid and Void Minions before targeting Void boss in Time Breach raid.\n-> Auto Raid no longer attacks enemies while they are invulnerable."
 }
