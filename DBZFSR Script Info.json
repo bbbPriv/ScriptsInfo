@@ -3,7 +3,7 @@
   "Version": "V8.1",
   "UILibraryVersion": "V2.4",
   "LastScriptUpdate": "Last Update: 07/10/2026",
-  "LatestScriptUpdateDate": "2026-10-07T06:04:25Z",
+  "LatestScriptUpdateDate": "2026-10-08T06:04:25Z",
   "ChangeLog": "\n<b>V8.1 Changelog</b>\n\n-> Added Client Crasher.\n-> Added Keybind List UI in the Keybinds page.",
   "PrebuiltConfigurations": [
     {
