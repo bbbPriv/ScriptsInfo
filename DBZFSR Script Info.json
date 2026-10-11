@@ -1,10 +1,10 @@
 {
   "ScriptAvailable": true,
-  "Version": "V8.1",
+  "Version": "V8.2",
   "UILibraryVersion": "V2.4",
-  "LastScriptUpdate": "Last Update: 07/10/2026",
+  "LastScriptUpdate": "Last Update: 11/10/2026",
   "LatestScriptUpdateDate": "2026-10-13T06:04:25Z",
-  "ChangeLog": "\n<b>V8.1 Changelog</b>\n\n-> Added Predict Position in Combat section, Auto page, enabled by default.\n-> Fixed Auto Raid & Auto Dungeon after the FSR update.\n->Fixed Auto Quest after the FSR update.",
+  "ChangeLog": "\n<b>V8.2 Changelog</b>\n\n-> Added Auto Farm Casual Wins in Auto page, Special Modes section. Farm 1k+ Casual Wins with your second account (Level 1 slot recommended for maximum speed).\n-> Added Dragon Tickets support to Auto Raid and Auto Dungeon, with Spend Dragon Tickets, Ticket Target, and Ticket Reserve settings. The selected raid/dungeon will be completed last.\n-> Added Targeting Mode dropdown in Auto page, Targeting section, with Lowest Distance (default) and Lowest Health options.\n-> Added Add To Auto Transform Dropdown setting to Auto Buy Moves.\n-> Added Zenni Reserve slider to Auto Buy Beans and Auto Buy Moves.\n-> Changed FPS Cap to a toggle and added Only When Unfocused setting.\n-> Added Auto Execute toggle in Settings page to all scripts (executor autoexec folder is still more reliable).\n-> Increased PC UI width by 6% and height by 7% across all scripts.",
   "PrebuiltConfigurations": [
     {
       "Name": "PvP",
