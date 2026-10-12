@@ -1,7 +1,7 @@
 {
   "ScriptAvailable": true,
   "Version": "V8.2",
-  "UILibraryVersion": "V2.4",
+  "UILibraryVersion": "V2.5",
   "LastScriptUpdate": "Last Update: 11/10/2026",
   "LatestScriptUpdateDate": "2026-10-13T06:04:25Z",
   "ChangeLog": "\n<b>V8.2 Changelog</b>\n\n* Added Auto Farm Casual Wins in Auto page, Special Modes section, you can go to sleep and farm +1k casual wins with your 2nd account, your 2nd account should be a lvl 1 slot for maximum speed.\n* Added support for Dragon Tickets in Auto Raid and Auto Dungeon, added Spend Dragon Tickets, Ticket Target and Ticket Reserve UI elements, the selected raid/dungeon to spend tickets on will be the last one to be completed on purpose.\n* Added Targeting Mode dropdown in Auto page, Targeting section, Lowest Distance (default) and Lowest Health modes.\n* Added Add To Auto Transform Dropdown setting to Auto Buy Moves.\n* Added Zenni Reserve slider setting to Auto Buy Beans and Auto Buy Moves.\n* FPS Cap is now a toggle and added Only When Unfocused setting.\n\n-------------------------------------------------------------------------\n\n* Added Auto Execute toggle in Settings page to all scripts, autoexec folder of the executor is still more reliable.\n* All scripts UI size for PC are now 6% wider and 7% taller.",
