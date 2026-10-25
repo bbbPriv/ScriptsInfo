@@ -1,8 +1,8 @@
 {
   "ScriptAvailable": true,
-  "Version": "V1",
+  "Version": "V1.1",
   "UILibraryVersion": "V2.8",
-  "LastScriptUpdate": "Last Update: 19/10/2026",
-  "LatestScriptUpdateDate": "2026-10-20T02:15:00Z",
-  "ChangeLog": "Initial BOOGA HUB release."
+  "LastScriptUpdate": "Last Update: 25/10/2026",
+  "LatestScriptUpdateDate": "2026-10-25T02:15:00Z",
+  "ChangeLog": "\n<b>V1.1 Changelog</b>\n\n* Added Legit mode to Kill Aura and Combat section in Auto page, enabled by default, it's considerabily weaker than the old combat method but it probably has to go sadly, it's powerful but it's too blatant and detectable, for now you will still be able to use it if you turn off the Legit toggle, then decisions will be made based on evidences in the next days.\n* Added Auto DCBAS.\n* Added Rift ESP and Rift Teleport.\n* Added Gravity setting to Auto Training and Auto Gravity Bot Simulation.\n* Added Stamina Threshold setting in Use Skills.\n* Added Anti Z Sword Failure.\n* Added Auto Pick Slot.\n* Changed default Hide UI Key to Right Control as Left Alt and Right Alt are used for toggling a mouse-unlock mode.\n* Improved compatibility so some features can be used in more execs and improved No Slow performance.\n* All autos in the Start Auto section now automatically enable Auto Respawn.\n* Server Hop now uses the game’s native server switcher (safer).\n* Increased default Melee Mode distance (11 -> 12).\n* Fixed several bugs."
 }
