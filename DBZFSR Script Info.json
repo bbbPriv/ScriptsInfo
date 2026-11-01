@@ -3,7 +3,7 @@
   "Version": "V8.3",
   "UILibraryVersion": "V3.1",
   "LastScriptUpdate": "Last Update: 01/11/2026",
-  "LatestScriptUpdateDate": "2026-10-31T06:04:25Z",
+  "LatestScriptUpdateDate": "2026-11-04T06:04:25Z",
   "ChangeLog": "\n<b>V8.3 Changelog</b>\n\n* Added Feature Priority at the bottom of the Auto page. How you use multiple autos has been reworked and is much better now, drag features to change their priority, enabled autos wait their turn. Replaces Queue Next Auto.\n* Added Auto Infection Purge on Auto page.\n* Added Auto Collect Candy on Misc page.\n* Added Blue Beans and Ki Threshold settings to Auto Senzu.\n* Added Auto Join Private server on Misc page.\n* Added Combo Damage mode, Size, Color and Display Time settings to Damage Indicator.\n* Added Dragon Tickets and Bean Inventory to Info Checker.\n* Improved Auto Rejoin and Auto Next World they now also disable Auto Dungeon, Auto Raid and Auto Infection Purge. Auto Rejoin's \"Wait Until Out Of Combat\" setting now also disables all running conflicting autos.\n* UI Auto Unlock Mouse is now enabled by default.\n* Damage Indicator numbers now appear on the sides of the enemies so they are easier to read.\n* Auto Escape now fully stops when it's caller (e.g Auto Quest) gets disabled.\n* Replaced Only NPCs toggle with NPCs / Players / Both    dropdown on Moves Aimbot and TP Behind Moves.\n* Removed some unnecessary descriptions.\n* Some small bug fixes.\n\n\n-----------------------------------------------------------------------\n\n* Added Transparency setting to Keybind List on all scripts.\n* Added customizability settings to Transparency and Acrylic Blur on all scripts.",
   "PrebuiltConfigurations": [
     {
